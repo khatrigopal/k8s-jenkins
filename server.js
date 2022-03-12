@@ -8,7 +8,7 @@ const PORT = process.env.PORT || 3000;
 // App
 const app = express();
 app.get('/', function (req, res) {
-  res.send('This is Cloud Technolog in HCL Technologye\n');
+  res.send('This is Cloud Technolog in HCL Technology Ltde\n');
 });
 
 app.listen(PORT);
