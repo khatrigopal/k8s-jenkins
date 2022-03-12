@@ -8,7 +8,7 @@ const PORT = process.env.PORT || 3000;
 // App
 const app = express();
 app.get('/', function (req, res) {
-  res.send('This is Cloud Technolog in GCPy\n');
+  res.send('This is Cloud Technolog in GCP Cloudy\n');
 });
 
 app.listen(PORT);
